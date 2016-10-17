@@ -92,4 +92,9 @@
 	end
 
 
+pod创建类库官方教程 
+https://guides.cocoapods.org/making/using-pod-lib-create.html
+https://guides.cocoapods.org/making/specs-and-specs-repo.html
+
+
 
