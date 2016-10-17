@@ -1,0 +1,40 @@
+{
+  "name": "YWLib",
+  "version": "0.1.0",
+  "summary": "A short description of YWLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/YWLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "dlm": "376958755@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/YWLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YWLib/Classes/**/*",
+  "resource_bundles": {
+    "YWLib": [
+      "YWLib/Assets/*.png"
+    ]
+  },
+  "public_header_files": "Pod/Classes/**/*.h",
+  "frameworks": [
+    "UIKit",
+    "MapKit"
+  ],
+  "dependencies": {
+    "AFNetworking": [
+      "~> 2.3"
+    ],
+    "Masonry": [
+
+    ]
+  }
+}

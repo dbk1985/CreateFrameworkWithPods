@@ -1,0 +1,6 @@
+use_frameworks!
+project "./LibDemo/LibDemo.xproject"
+workspace "./YWLib.xcworkspace"
+target 'LibDemo' do
+  pod 'YWLib', :path => './YWLib'
+end
