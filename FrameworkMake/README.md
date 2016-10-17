@@ -123,6 +123,7 @@ YWLib is available under the MIT license. See the LICENSE file for more info.
 	  pod 'YWLib', :path => './YWLib'
 	end
 
+6、添加类库依赖的第三方类库，在podspec文件中添加，添加完成后使用pod install即可引入第三方类库
 
 
 
